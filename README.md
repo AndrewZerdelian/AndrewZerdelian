@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi there 👋, I'm Andrew,</h1>
 <h3 align="center">I'm a junior front-end developer diving into the coding ocean. Catch me crafting websites and exploring the programming universe.</h3>
 
