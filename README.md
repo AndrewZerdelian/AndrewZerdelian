@@ -1,4 +1,5 @@
-![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXgzMGticjE3djU2aXcxZDI5NGJpM3VyanprZWx4NWY1MTBnaXVxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5Zesu5VPNGJlm/giphy.gif)
+
+
 <h1 align="center">Hi there 👋, I'm Andrew,</h1>
 <h3 align="center">I'm a junior front-end developer diving into the coding ocean. Catch me crafting websites and exploring the programming universe.</h3>
 
