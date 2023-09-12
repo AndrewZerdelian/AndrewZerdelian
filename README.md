@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Andrew,</h1>
-<h3 align="center">I'm a junior front-end developer diving into the coding ocean. Catch me crafting websites and exploring the programming universe.</h3>
+<h3 align="center">I'm a junior front-end React developer, Who is on a journey of self-learning and improvement. with Every line of code brings me one step closer to becoming the better developer I aspire to be.</h3>
 
 - 🔭 I’m currently working on **my own projects for my resume....**
 
