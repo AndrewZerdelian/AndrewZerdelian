@@ -9,9 +9,7 @@
 
 - 💬 Ask me about **Js,React,Next,TailwindCss**
 
-- 📫 How to reach me **+20 1012 108 792**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
