@@ -7,7 +7,7 @@
 
 - 📫 How to reach me [Andrew.h.Zerdeliano@gmail.com](Andrew.h.Zerdeliano@gmail.com)
 
-- 💬 Ask me about **Js,React,Next,TailwindCss**
+- 💬 Ask me about **Js,React,Next,TailwindCss,BootStrap**
 
 
 <p align="left">
