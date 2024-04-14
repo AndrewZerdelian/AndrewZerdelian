@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Andrew.h.Zerdeliano@gmail.com**
 
-- ⚡ Am looking for an opportunity ** as a Front-End developer React.js / React Native**
+- ⚡ Am looking for an opportunity **as a Front-End developer React.js / React Native**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
